@@ -1,0 +1,14 @@
+.bg-primary, .shadow{
+    
+    border-radius: 15px;
+}
+.text-bg-tertiary{
+    color: rgb(219, 215, 215);
+}
+.d-flex{
+    border-radius: 10px;
+    background-color: rgb(250, 244, 244);
+}
+.btn-primary{
+    border: 20px;
+}
